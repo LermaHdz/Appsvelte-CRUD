@@ -1,4 +1,11 @@
-# This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or — if you want a full-fledged app framework and don't mind using pre-1.0 software — use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
+This is a really simple CRUD app built with Svelte, the lightweight and high-performance JavaScript framework! With this app, you can easily create, read, update, and delete records of any kind, making it a useful tool for managing and organizing data.
+
+Features
+
+Create, read, update, and delete records of any kind
+Intuitive and user-friendly interface
+Responsive design for use on any device
+Built with Svelte's efficient and reactive programming model
 
 ---
 
